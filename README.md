@@ -11,3 +11,5 @@ edition = "2021"
 
 [dependencies]
 rand = "0.8.5"
+
+"Rust game for implementation of the Rust version 0.1.0 in the replit template"
